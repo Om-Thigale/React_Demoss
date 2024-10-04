@@ -14,7 +14,7 @@ function App() {
   
 
   <div >
-    <h1 >EDIT KIYA 2</h1>
+    <h1 >EDIT KIYA 2 I am adding 1 2 and three</h1>
     <div class="bg"></div>
     <div class="bg bg2"></div>
     <div class="bg bg3"></div>
